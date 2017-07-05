@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  vboteapot.cpp
+  vboplane.cpp
+  Texture.cpp
+  TeapotAD.cpp
+  scenediffuse.cpp
+  QuatCamera.cpp
+  gl_core_4_3.cpp
+  glutils.cpp
+  glslprogram.cpp
+  drawable.cpp
+  Bitmap.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
